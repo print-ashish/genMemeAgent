@@ -1,2 +1,5 @@
 groq
+langchain
+langgraph
 langchain-groq
+pydantic
